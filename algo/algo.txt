@@ -29,3 +29,10 @@ Game needs
 - 1rst player : +1 when ball x position is > 2nd player bar x position
 - 2nd player : +1 when ball x position is > 1rst player bat x position
 - Reset button : clear scores & stop ball motion
+
+
+Collision detection
+3 conditions , trois objets différents
+    - bars
+    - bordure top & bottom
+    - cote left & right

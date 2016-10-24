@@ -1,0 +1,30 @@
+Game needs
+1 playground
+2 Two bars
+3 One ball
+4 2 scores
+
+----------------------------
+
+1 Playground
+- size & position
+- line separator & position
+- 2 scores size & position
+
+
+2 Two bars
+- size & position
+- vertical movement
+- impact with ball > change direction and angle degre
+
+
+3 Balle
+- size & position
+- speed
+- direction
+- rebond when hit the playground > keep direction but change angle
+
+
+4 Scores
+- 1rst player : when ball pass the x position of the 2nd player's bar > +1 point
+- 2eme player : when ball pass the x position of the 1rst player's bar > +1 point
