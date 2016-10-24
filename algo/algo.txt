@@ -1,0 +1,29 @@
+Game needs
+1 playground
+2 Two bars
+3 One ball
+4 2 scores
+
+----------------------------
+
+1 Playground
+- size & position
+- line separator & position
+
+
+2 Two bars
+- size & position
+- vertical movement
+
+
+3 Balle
+- size & position
+- speed
+- ball bound when touching playground border
+- ball inverse direction & angle when touch bar
+
+
+4 Scores
+- size & position
+- 1rst player : +1 when ball x position is > 2nd player bar x position
+- 2nd player : +1 when ball x position is > 1rst player bat x position
