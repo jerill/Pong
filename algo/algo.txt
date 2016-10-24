@@ -31,8 +31,8 @@ Game needs
 - Reset button : clear scores & stop ball motion
 
 
-Collision detection
+Si Collision detection
 3 conditions , trois objets différents
     - bars
-    - bordure top & bottom
-    - cote left & right
+    - bordures top & bottom
+    - cotes left & right
