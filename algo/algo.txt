@@ -7,21 +7,22 @@ Game needs
 ----------------------------
 
 1 Playground
-- size & position
-- line separator & position
-
+- size, color, border up, border down & position
+- line separator, color & position
 
 2 Two bars
-- size & position
-- vertical movement when hold key arrow down or arrow up
-
+- init : bar size, position 1rst bar & position 2nd bar & color
+- move : up > when hold key arrow up
+- stop : up > when bar touch top border playground
+- move : down > when hold key arrow down
+- stop : down > when bar touch bottom border playground 
 
 3 Balle
-- play button : start to ball move the ball
-- size & position
-- speed
-- ball bound when touching playground border
-- ball inverse direction & angle when touch bar
+- Init : Size, color, speed, direction, angle, position
+- Play : move ball (speed & direction)
+- Bound : mirror > when ball position touch border playground position up & down (same speed, same direction & change angle)
+- Hit bar : reverse > when ball touch bar (reverse direction, same speed & change angle)
+
 
 
 4 Scores
