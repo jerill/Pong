@@ -13,10 +13,11 @@ Game needs
 
 2 Two bars
 - size & position
-- vertical movement
+- vertical movement when hold key arrow down or arrow up
 
 
 3 Balle
+- play button : start to ball move the ball
 - size & position
 - speed
 - ball bound when touching playground border
@@ -27,3 +28,4 @@ Game needs
 - size & position
 - 1rst player : +1 when ball x position is > 2nd player bar x position
 - 2nd player : +1 when ball x position is > 1rst player bat x position
+- Reset button : clear scores & stop ball motion
