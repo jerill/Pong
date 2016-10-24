@@ -13,10 +13,10 @@ Game needs
 2 Two bars
 - Constant : bar size, & color
 - Init : position 1rst bar & position 2nd bar, no move
-- move : up > when hold key arrow up
-- stop : up > when bar touch top border playground
-- move : down > when hold key arrow down
-- stop : down > when bar touch bottom border playground 
+- move up > when hold key arrow up
+- move stop up > when bar touch top border playground
+- move down > when hold key arrow down
+- move stop down > when bar touch bottom border playground 
 
 3 Balle
 - Init : size, color, speed, direction, angle, position
